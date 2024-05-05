@@ -1,0 +1,115 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url(../common/font/PretendardVariable.woff2) format('woff2-variations');
+  font-style: normal;
+  font-display: swap;
+  font-weight: 45 920;
+}
+
+@font-face {
+  font-family: 'geograph';
+  src: url(../common/font/geographwebregular.woff2) format('woff2');
+  font-style: normal;
+  font-weight: 400;
+}
+
+
+/* Montserrat font*/
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../common/font/Montserrat-Light.woff2) format('woff2');
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../common/font/Montserrat-Regular.woff2) format('woff2');
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../common/font/Montserrat-Medium.woff2) format('woff2');
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../../common/font/Montserrat-ExtraBold.woff2) format('woff2');
+  font-style: normal;
+  font-weight: 800;
+}
+
+/* GmarketSans font */
+@font-face {
+  font-family: 'GmarketSans';
+  src: url(../common/font/GmarketSansLight.woff) format('woff');
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family:'GmarketSans';
+  src: url(../common/font/GmarketSansMedium.woff) format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+
+
+@font-face {
+  font-family: 'S-CoreDream-3Light';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'SilkSerif';
+  src: url(../common/font/SilkSerif-ExtraLight.woff) format('woff');
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family:'SilkSerif';
+  src: url(../common/font/SilkSerif-Light.woff) format('woff');
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family:'SilkSerif';
+  src: url(../common/font/SilkSerif-Regular.woff) format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+@font-face {
+  font-family: 'Cafe24Oneprettynight';
+  src: url(../common/font/Cafe24Oneprettynight.woff) format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* sb 어그로 */
+@font-face {
+  font-family: 'SBAggro';
+  src: url(../common/font/SBAggroLight.woff) format('woff');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'SBAggro';
+  src: url(../common/font/SBAggroMedium.woff) format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'SBAggro';
+  src: url(../common/font/SBAggroBold.woff) format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
